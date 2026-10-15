@@ -1,0 +1,5 @@
+{
+  "f1_macro_min": 0.95,
+  "recall_min_per_species": 0.9,
+  "review_threshold": 0.8
+}

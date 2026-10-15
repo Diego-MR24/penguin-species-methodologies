@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Adelie,1.0,1.0,1.0,30
+Chinstrap,1.0,1.0,1.0,14
+Gentoo,1.0,1.0,1.0,25
+macro avg,1.0,1.0,1.0,69
+weighted avg,1.0,1.0,1.0,69

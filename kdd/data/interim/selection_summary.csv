@@ -1,0 +1,4 @@
+species,total_n,train_n,test_n,total_prop,train_prop,test_prop
+Adelie,152,122,30,0.442,0.444,0.435
+Gentoo,124,99,25,0.36,0.36,0.362
+Chinstrap,68,54,14,0.198,0.196,0.203

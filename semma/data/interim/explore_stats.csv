@@ -1,0 +1,6 @@
+,culmen_length_mm,culmen_length_mm,culmen_length_mm,culmen_length_mm,culmen_length_mm,culmen_depth_mm,culmen_depth_mm,culmen_depth_mm,culmen_depth_mm,culmen_depth_mm,flipper_length_mm,flipper_length_mm,flipper_length_mm,flipper_length_mm,flipper_length_mm,body_mass_g,body_mass_g,body_mass_g,body_mass_g,body_mass_g
+,count,mean,std,min,max,count,mean,std,min,max,count,mean,std,min,max,count,mean,std,min,max
+species,,,,,,,,,,,,,,,,,,,,
+Adelie,121,38.71,2.71,32.1,46.0,121,18.32,1.23,15.5,21.5,121,189.5,6.44,172.0,208.0,121,3676.24,453.43,2850.0,4775.0
+Chinstrap,54,48.73,3.29,40.9,58.0,54,18.51,1.11,16.4,20.8,54,195.78,7.4,178.0,212.0,54,3713.89,383.31,2700.0,4800.0
+Gentoo,98,47.39,3.04,40.9,59.6,98,14.96,0.99,13.2,17.3,98,216.81,6.46,203.0,231.0,98,5081.63,510.04,3950.0,6300.0

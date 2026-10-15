@@ -1,0 +1,4 @@
+criterio,meta,resultado,cumple
+F1 macro en prueba,>= 0.95,1.0,True
+Sensibilidad mínima por especie,>= 0.9,1.0,True
+Registros marcados para revisión,probabilidad < 0.8,0 de 69,True

@@ -1,0 +1,12 @@
+variable,impureza,permutacion_media,permutacion_std
+culmen_ratio,0.3333,0.2072,0.0438
+culmen_length_mm,0.1689,0.0186,0.0133
+flipper_length_mm,0.1638,0.0,0.0
+island_Dream,0.0886,0.017,0.0123
+culmen_depth_mm,0.0855,0.0091,0.0077
+island_Biscoe,0.0747,0.0057,0.0061
+body_mass_g,0.069,0.0042,0.0065
+island_Torgersen,0.012,0.016,0.0043
+sex_FEMALE,0.0023,0.0,0.0
+sex_MALE,0.0018,0.0,0.0
+sex_UNKNOWN,0.0001,0.0,0.0

@@ -1,0 +1,2 @@
+row_id,species,island,culmen_length_mm,culmen_depth_mm,flipper_length_mm,body_mass_g,sex,prob_Adelie,prob_Chinstrap,prob_Gentoo,predicted
+37,Adelie,Dream,42.2,18.5,180.0,3550.0,FEMALE,0.431,0.569,0.0,Chinstrap

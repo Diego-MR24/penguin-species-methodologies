@@ -1,0 +1,8 @@
+,tipo,faltantes,valores_distintos,valores_no_validos
+culmen_length_mm,float64,2,146,0
+culmen_depth_mm,float64,2,76,0
+flipper_length_mm,float64,2,53,0
+body_mass_g,float64,2,89,0
+island,object,0,3,0
+sex,object,8,2,0
+species,object,0,3,0

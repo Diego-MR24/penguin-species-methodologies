@@ -1,0 +1,4 @@
+registro,especie_anotada,island,culmen_length_mm,culmen_depth_mm,flipper_length_mm,body_mass_g,sex,especie_predicha,probabilidad,coincide,revisar
+ejemplo_1,Gentoo,Biscoe,47.5,14.8,217.0,5100.0,MALE,Gentoo,0.998,True,False
+ejemplo_2,Adelie,Dream,49.0,18.6,196.0,3750.0,FEMALE,Chinstrap,0.985,False,True
+ejemplo_3,Adelie,Torgersen,38.6,18.2,190.0,3600.0,UNKNOWN,Adelie,0.994,True,False
